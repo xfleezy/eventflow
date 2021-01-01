@@ -20,7 +20,7 @@ To train a new model, run
 ```python main.py```
 
 ## Video sample
-Video sample contains continuous estimation of event-based optical flow for outdoor_day, indoor_day and outdoor_night scenes.
+Folder Video sample contains continuous estimation of event-based optical flow for outdoor_day, indoor_day and outdoor_night scenes.
 
 
 ## Authors
