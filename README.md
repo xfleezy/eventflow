@@ -16,7 +16,7 @@ but reaches the comparable results over state-of-the-arts.
 * Matplotlib
 
 ## Video sample
-
+Video sample contains continuous estimation of event-based optical flow for outdoor_day, indoor_day and outdoor_night scenes.
 
 
 ## Authors
