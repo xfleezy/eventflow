@@ -18,6 +18,8 @@ but reaches the comparable results over state-of-the-arts.
 ## Video sample
 Video sample contains continuous estimation of event-based optical flow for outdoor_day, indoor_day and outdoor_night scenes.
 
+## Training
+Before the training process, you need to download datasets from https://daniilidis-group.github.io/mvsec/. The data takes up to about 30 GB. For efficient data reading, you need to convert data into event images and grayscale images then save them in the ./data.
 
 ## Authors
 Zhuoyan Li, Jiawei Shen
