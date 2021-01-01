@@ -18,10 +18,11 @@ Before the training process, you need to download datasets from https://daniilid
 
 To train a new model, run 
 ```python main.py```
-
+![pic1](/media/xusper/KESU/learning/Learn Optical Flow from Event Camera/177_flow.jpg)
 
 ## Video sample
 Video sample contains continuous estimation of event-based optical flow for outdoor_day, indoor_day and outdoor_night scenes.
+
 
 ## Authors
 Zhuoyan Li, Jiawei Shen
