@@ -1,5 +1,5 @@
 # Optical flow for event camera
-A lightweight network to learn event-based optical flow. (ICPR 2020)
+Pytorch implementation for : A lightweight network to learn event-based optical flow. (ICPR 2020)
 
 ## Introduction
 In this work, we present a lightweight pyramid network to learn event-based flow in a self-supervised way. We combine the
