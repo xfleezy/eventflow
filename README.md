@@ -14,7 +14,7 @@ but reaches the comparable results over state-of-the-arts.
 * Matplotlib
 
 ## Training
-Before the training process, you need to download datasets from https://daniilidis-group.github.io/mvsec/. The data takes up to about 30 GB. For efficient data reading, you need to convert data into event images and grayscale images then save them in the ./data.
+Before the training process, you need to download datasets from https://daniilidis-group.github.io/mvsec/. The data takes up to about 30 GB. For efficient data reading, you need to convert data into event images and grayscale images then save them in the folder./data.
 
 To train a new model, run 
 ```python main.py```
